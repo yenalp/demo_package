@@ -1,5 +1,5 @@
 <?php
-namespace Monkii
+namespace Paul
 
 class Str {
 
